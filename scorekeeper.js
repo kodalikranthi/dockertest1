@@ -6,7 +6,6 @@
 //     "rgb(0, 255, 255)",
 //     "rgb(255, 255, 0)",
 //
-//
 //]
 
 var colors = generateRandomNumber(6);
